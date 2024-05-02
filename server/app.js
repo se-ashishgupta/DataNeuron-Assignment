@@ -22,5 +22,12 @@ import route from "./routes/routes.js";
 
 app.use("/api/v1", route);
 
+// Home Route
+app.get("/", (req, res) => {
+  res.send(
+    `<h1>Welcome, Website is Working on ${process.env.FRONTEND_URL} click <a href=${process.env.FRONTEND_URL}>here</a></h1>`
+  );
+});
+
 // Using Error Middleware
 app.use(ErrorMiddleware);
