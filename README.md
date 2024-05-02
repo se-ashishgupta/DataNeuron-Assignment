@@ -47,7 +47,7 @@ Finally cloned this repository adn Added .env files in both client and server, N
 ** Client **
 
 ```bash
-cd ataNeuron-Assignment/client
+cd DataNeuron-Assignment/client
 npm install
 npm run dev
 ```
@@ -55,7 +55,7 @@ npm run dev
 ** Server **
 
 ```bash
-cd ataNeuron-Assignment/server
+cd DataNeuron-Assignment/server
 npm install
 nodemon server.js
 ```
