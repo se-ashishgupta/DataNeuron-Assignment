@@ -42,7 +42,7 @@ FRONTEND_URL=http://localhost:5173
 
 ```
 
-Finally cloned this repository adn Added .env files in both client and server, Now Install dependencies and run the local server
+Finally cloned this repository and Added .env files in both client and server, Now Install dependencies and run the local server
 
 ** Client **
 
