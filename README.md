@@ -7,7 +7,7 @@ Data Neuron Assignment - Using Vite, React.
 
 ## Tech Stack
 
-**React, Split-Pane-react, JavaScript, Tailwind, Redux, reduxTollkit, Axios, Nodejs, ExpressJs, Redux, SCSS, CSS, Nodemailer, Cloudinary**
+**React, Split-Pane-react, JavaScript, Tailwind, Redux, reduxTollkit, Axios, Nodejs, ExpressJs, Mongoose, MongoDB**
 
 ## Features
 
